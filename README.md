@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20Sakura&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20Sakura&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -51,8 +51,10 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsakura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsakura&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gabsakura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabsakura&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+  <br/><br/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=gabsakura&theme=tokyonight" alt="Sequência de Contribuições" />
 </div>
 
 ---
@@ -60,10 +62,10 @@
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="www.linkedin.com/in/gabrielsakura" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gabrielsakura" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gabsakura1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
