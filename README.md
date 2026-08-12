@@ -53,8 +53,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gabsakura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabsakura&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
-  <br/><br/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=gabsakura&theme=tokyonight" alt="Sequência de Contribuições" />
 </div>
 
 ---
